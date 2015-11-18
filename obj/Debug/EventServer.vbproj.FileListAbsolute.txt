@@ -1,0 +1,14 @@
+C:\PROJECTS\EventServer\bin\EventServer.exe.config
+C:\PROJECTS\EventServer\bin\EventServer.exe.manifest
+C:\PROJECTS\EventServer\bin\EventServer.application
+C:\PROJECTS\EventServer\bin\EventServer.exe
+C:\PROJECTS\EventServer\bin\EventServer.pdb
+C:\PROJECTS\EventServer\bin\EventServer.xml
+C:\PROJECTS\EventServer\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\PROJECTS\EventServer\bin\CrystalDecisions.ReportSource.dll
+C:\PROJECTS\EventServer\bin\CrystalDecisions.Shared.dll
+C:\PROJECTS\EventServer\obj\Debug\EventServer.exe.manifest
+C:\PROJECTS\EventServer\obj\Debug\EventServer.application
+C:\PROJECTS\EventServer\obj\Debug\EventServer.exe
+C:\PROJECTS\EventServer\obj\Debug\EventServer.xml
+C:\PROJECTS\EventServer\obj\Debug\EventServer.pdb

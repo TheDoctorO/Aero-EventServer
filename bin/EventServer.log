@@ -1,0 +1,385 @@
+Event Server: Started at 11/4/2015 2:22:29 PM
+Thread 0 StartRow: 0 Max Rows: 389
+Processing Event: sub 7f687991-f962-45be-be5a-a5fa8d985c78 INVENTORY RETURNED W/ORDER on 836 for DONNA FARMER on thread 0
+Processing Event: sub f07e21e5-5c9b-442e-b26b-6265ef8bbfb6 INVENTORY RETURNED W/ORDER on 836 for Joe Magaro on thread 0
+Processing Event: sub 259F4B09-33FD-423F-B214-B27399A5E9BD ORDER SHIPPED CONFIRM EMAIL on 719 for SYSTEM on thread 0
+Event_OrderTracking: 0
+Processing Event: sub 5a2e5bd5-d05e-4813-ada5-c001fb20836f Out of Stock on 759 for MELISSA STEWARD on thread 0
+Event_InventoryOutOfStock: 0
+Processing Event: sub 80a709a6-617e-411f-969e-9620acce1831 INVENTORY REORDER on 759 for MELISSA STEWARD on thread 0
+Event_InventoryReorder: 0
+Processing Event: sub 6c20b1e2-4941-4263-b382-ba73948f00bc LINE ERROR on 759 for MELISSA STEWARD on thread 0
+Event_LineStatusChanged: 0
+Processing Event: sub b171e56d-0f65-4581-a69f-4993f0ba4df6 INVENTORY ITEM RECEIVED BY SKU on 759 for MELISSA STEWARD on thread 0
+Event_InventoryReceived: 0
+Processing Event: sub e6e1f284-8221-418a-bf3b-ecd7b38b9dc2 ORDER ERROR on 759 for MELISSA STEWARD on thread 0
+Event_OrderStatusChanged: 0
+Processing Event: sub aefeccd9-2601-467a-a676-73753a565fe2 ORDER APPROVALS on 781 for Ron Bryant on thread 0
+Event_OrderStatusChanged: 0
+Processing Event: sub 87c67d16-3964-4c98-8c49-4dfa46aff6dd LINE ERROR on 130 for SCOTT TURNER on thread 0
+Event_LineStatusChanged: 0
+Processing Event: sub 8bd59aa3-f5b9-400a-a3b2-8d8e5c58adf6 LINE SHORT SHIPPED on 777 for LORY COLELLA on thread 0
+Event_LineShortShipped: 0
+Processing Event: sub 5892140c-85a9-48b3-b35b-be72bba5a313 INVENTORY REORDER on 777 for LORY COLELLA on thread 0
+Event_InventoryReorder: 0
+Processing Event: sub 18061eaf-693f-4f2d-93c3-311d9bbe1054 INVENTORY RETURNED on 777 for LORY COLELLA on thread 0
+Event_InventoryReturned: 0
+Processing Event: sub 1dfd75c4-0452-4c48-9f59-16cded5e6e64 INVENTORY RECEIVED on 777 for LORY COLELLA on thread 0
+Event_InventoryReceived: 0
+Processing Event: sub 291d55af-3244-411d-a9a0-163e2b61b8b4 INVENTORY REORDER on 74 for BECKY TELLOCK on thread 0
+Event_InventoryReorder: 0
+Processing Event: sub 7C46F959-288C-45C1-86FE-3414FE08F31D LINE SHORTED AUTO ENTERED BY on 777 for SYSTEM on thread 0
+Event_LineShortShipped: 0
+Processing Event: sub e83cffc2-a5d8-4108-8468-f2df71ba61dc INVENTORY REORDER on 531 for BRYAN WAYE on thread 0
+Event_InventoryReorder: 0
+Processing Event: sub 6931c5e8-56c1-427b-88c0-1291983e2214 LINE ERROR on 137 for SCOTT TURNER on thread 0
+Event_LineStatusChanged: 0
+Processing Event: sub 22EB16E7-5FCD-4873-8EEE-4C2BF5187B58 BATCH CONFIRMATION on 759 for SYSTEM on thread 0
+Event_Batch_Confirmation: 0
+Processing Event: sub 379A3C7E-20EE-49C3-BC86-08F2041527EE ORDER CONFIRMATION EMAIL on 759 for SYSTEM on thread 0
+Event_OrderTracking: 0
+Processing Event: sub 7B34C0FB-ECE2-4F84-B45F-E78E9C17436E ORDER SHIPPED CONFIRM EMAIL on 759 for SYSTEM on thread 0
+Event_OrderTracking: 0
+Processing Event: sub 7ead4aa3-b6b3-46bc-ad49-99b5961ba03a INVENTORY EXPIRED on 813 for DONNA FARMER on thread 0
+Event_InventoryExpired: 0
+Processing Event: sub adbd08cd-de69-403c-a5cc-59c4bbecc4b1 INVENTORY EXPIRED on 813 for Tara Ahmed on thread 0
+Event_InventoryExpired: 0
+Processing Event: sub 87E5F29E-5D09-4B2D-925F-F5C0761C81AD SHIPPED CONFIRMATION on 103 for SYSTEM on thread 0
+Event_OrderTrackStatusChanged: 0
+Processing Event: sub 651ffd87-a311-4d78-a2f7-10938238fd37 ITEM ORDERED BY ITEM on 876 for PGAX@DOMTAR.COM on thread 0
+Event_LineStatusChanged: 0
+Processing Event: sub 42936e81-d0db-4174-84a0-4a0ed4e2b014 INVENTORY RETURNED W/ORDER on 73 for STEVE BUSAM on thread 0
+Processing Event: sub b3b75bae-29b6-44be-8519-7ea078d0f215 PDP Future delivery date alert on 724 for JAMES CARDWELL on thread 0
+Event_OrderTracking: 0
+Processing Event: sub a50a7372-c438-4663-a859-6a508c40c722 ORDER APPROVALS on 781 for Brad Johnson on thread 0
+Event_OrderStatusChanged: 0
+Processing Event: sub 6B22EA2A-C533-475A-8306-F33F148A7D13 ITEM SKIPPED AUTO on 73 for SYSTEM on thread 0
+Event_ItemStatusChange: 0
+Processing Event: sub 8304ab60-8d47-44d3-a46d-4c8527a2f3b0 INVENTORY REORDER on 719 for Keith Misukanis on thread 0
+Event_InventoryReorder: 0
+Processing Event: sub 8a83e61d-8c9f-494b-b38b-0a66867ced88 INVENTORY RECEIVED on 826 for Chris Horn on thread 0
+Event_InventoryReceived: 0
+Processing Event: sub 57d33129-ebc6-437d-a39c-a805ee1e80a0 INVENTORY RECEIVED on 826 for BRIAN HUELSMAN on thread 0
+Event_InventoryReceived: 0
+Processing Event: sub 59baea3b-c5bb-4997-9ec4-4323f32271e2 INVENTORY RECEIVED on 767 for CHERI CRABTREE on thread 0
+Event_InventoryReceived: 0
+Processing Event: sub 331b1869-8505-4104-a456-b9a837c8f457 INVENTORY RETURNED on 767 for KIM MEYERS on thread 0
+Event_InventoryReturned: 0
+Processing Event: sub 18991cf4-ef87-4182-92cb-3f950b9601d8 INVENTORY RETURNED on 767 for CHERI CRABTREE on thread 0
+Event_InventoryReturned: 0
+Processing Event: sub c66e94ba-7c82-4943-a2d5-b2c36b658689 INVENTORY RECEIVED on 245 for DONNA FARMER on thread 0
+Event_InventoryReceived: 0
+Processing Event: sub fb5cef4b-c4c4-4c34-b012-b0a2875ab1a6 24 HOUR ORDER APPROVAL  on 777 for Paula OSullivan on thread 0
+Event_OrderTracking: 0
+Processing Event: sub 0612C367-9F63-4BF3-8837-860B9805F490 BATCH PENDING APPROVAL CUST on 311 for SYSTEM on thread 0
+Event_BatchApprovalsCustomer: 0
+Processing Event: sub 06a8b85f-201a-411f-8670-a5c7a9441e63 INVENTORY ITEM RECEIVED BY SKU on 130 for CHERI CRABTREE on thread 0
+Event_InventoryReceived: 0
+Processing Event: sub 06b12b56-c2b1-4b5b-b0e0-068ceed74942 INVENTORY REORDER on 104 for DONNA FARMER on thread 0
+Event_InventoryReorder: 0
+Processing Event: sub 08e67ace-535a-46c3-975a-9f261d3cd4e7 ORDER CANCELED on 392 for BRIAN HUELSMAN on thread 0
+Event_OrderStatusChanged: 0
+Processing Event: sub 0bb0fe8a-c5e8-4af2-9dc4-b0fafffeb799 ORDER ERROR on 392 for BRIAN HUELSMAN on thread 0
+Event_OrderStatusChanged: 0
+Processing Event: sub 0c3a7a5c-443e-4790-91e0-66da7ee442a5 INVENTORY ITEM RECEIVED BY SKU on 130 for BECKY TELLOCK on thread 0
+Event_InventoryReceived: 0
+Processing Event: sub 0d86ea11-a80e-48fd-9f9f-629b6f8306b9 ORDER APPROVALS on 392 for BRIAN HUELSMAN on thread 0
+Event_OrderStatusChanged: 0
+Processing Event: sub 17b4fcd3-e1d9-4575-aa8c-9d12b1cb2a91 INVENTORY ITEM RECEIVED BY SKU on 392 for BRIAN HUELSMAN on thread 0
+Event_InventoryReceived: 0
+Processing Event: sub 19ebaf52-507a-451f-acdd-13cb90511803 BATCH PENDING APPROVAL on 311 for CHERI CRABTREE on thread 0
+Event_OrderApprovals: 0
+Processing Event: sub 1bc4317c-a245-4350-a41a-5722b5180bc5 LINE ERROR on 137 for CHERI CRABTREE on thread 0
+Event_LineStatusChanged: 0
+Processing Event: sub 226dcce7-5658-4085-a326-d1c78b597408 ORDER APPROVALS on 74 for DONNA FARMER on thread 0
+Loading report: \\192.168.0.20\navigator\MASON\templates\OrderApprovals.rpt
+SMTP Error: From - ops@aerofulfillment.com
+SMTP Error: To - DONNA.FARMER@AEROFULFILLMENT.COM
+SMTP Error: The server rejected one or more recipient addresses. The server response was: 550 5.7.1 Unable to relay for DONNA.FARMER@AEROFULFILLMENT.COM
+
+SMTP Error: Exception has been thrown by the target of an invocation.
+SMTP Error: The server rejected one or more recipient addresses. The server response was: 550 5.7.1 Unable to relay for DONNA.FARMER@AEROFULFILLMENT.COM
+
+Event_OrderStatusChanged: 6
+Processing Event: sub 2d6778e4-5cd6-41dc-81c0-ee028c7717df ORDER ERROR on 104 for DONNA FARMER on thread 0
+Event_OrderStatusChanged: 0
+Processing Event: sub 347147d8-ccba-4707-9f13-e46e58fdd17e INVENTORY REORDER on 210 for DONNA FARMER on thread 0
+Event_InventoryReorder: 0
+Processing Event: sub 2b2fadd9-ab3c-4193-a502-77c6b0f565b4 INVENTORY RECEIVED on 210 for DONNA FARMER on thread 0
+Event_InventoryReceived: 0
+Processing Event: sub 4b219a43-bc95-400a-9f9d-95c065ad519b INVENTORY ITEM REORDER BY SKU on 311 for CHERI CRABTREE on thread 0
+Event_InventoryReorder: 0
+Processing Event: sub 37a094cc-e145-4720-b474-f39a6b1f0429 INVENTORY ITEM REORDER BY SKU on 131 for BECKY TELLOCK on thread 0
+Event_InventoryReorder: 0
+Processing Event: sub 3623d6a8-067e-4ced-bbbb-51f4e60e24db BATCH PENDING APPROVAL on 137 for CHERI CRABTREE on thread 0
+Event_OrderApprovals: 0
+Processing Event: sub 5b2c297b-2c5f-40b3-8c86-20612f93c198 BATCH PENDING APPROVAL on 73 for BRIAN HUELSMAN on thread 0
+Event_OrderApprovals: 0
+Processing Event: sub 56098c04-d0b5-4f0b-a299-26d554fe6a6a INVENTORY REORDER on 74 for DONNA FARMER on thread 0
+Event_InventoryReorder: 0
+Processing Event: sub 4dd4e596-96c6-4610-8c38-ddee262af025 INVENTORY RECEIVED on 295 for DONNA FARMER on thread 0
+Event_InventoryReceived: 0
+Processing Event: sub 4e526e14-5dd8-46b3-b6bb-d2d4d2769e98 CPG VENDOR PO APPROVAL on 73 for BRIAN HUELSMAN on thread 0
+Event_InventoryReorder: 0
+Processing Event: sub 5472fb06-f114-48f7-bf80-baa908d52640 INVENTORY REORDER on 295 for DONNA FARMER on thread 0
+Event_InventoryReorder: 0
+Processing Event: sub 874c6dbd-b929-480d-be20-5ba3530bcc2a SHIPPED CONFIRMATION on 259 for NICHOLAS ROSE on thread 0
+Event_OrderTrackStatusChanged: 0
+Processing Event: sub 83be9ad3-27a5-4274-9406-8f950c475c90 LINE ERROR on 130 for CHERI CRABTREE on thread 0
+Event_LineStatusChanged: 0
+Processing Event: sub 7910b0be-4099-4710-9f89-7d6bb31c3a49 INVENTORY INSERTED on 104 for DONNA FARMER on thread 0
+Event_InventoryChanged: 0
+Processing Event: sub 6a378ffa-8821-439d-b86b-80e82bd5fc5d INVENTORY INSERTED on 392 for BRIAN HUELSMAN on thread 0
+Event_InventoryChanged: 0
+Processing Event: sub 5dd28afd-a795-4c2a-9718-29b4fdc885d0 BATCH PENDING APPROVAL on 131 for BECKY TELLOCK on thread 0
+Event_OrderApprovals: 0
+Processing Event: sub 63212c96-1fc1-4eb6-8f04-7c06ab9f7239 INVENTORY ITEM RECEIVED BY SKU on 247 for KATE LEONHART on thread 0
+Event_InventoryReceived: 0
+Processing Event: sub 651a7219-2daa-4956-9d29-2ec313e27f0c INVENTORY RECEIVED on 64 for DONNA FARMER on thread 0
+Event_InventoryReceived: 0
+Processing Event: sub 6c067df6-6423-449d-b9c0-5be5ff3e4570 INVENTORY RECEIVED on 73 for BRIAN HUELSMAN on thread 0
+Loading report: \\192.168.0.20\navigator\MASON\templates\InventoryItemReceived_CPG.rpt
+SMTP Error: From - ops@aerofulfillment.com
+SMTP Error: To - BRIAN.HUELSMAN@AEROFULFILLMENT.COM
+SMTP Error: The server rejected one or more recipient addresses. The server response was: 550 5.7.1 Unable to relay for BRIAN.HUELSMAN@AEROFULFILLMENT.COM
+
+SMTP Error: Exception has been thrown by the target of an invocation.
+SMTP Error: The server rejected one or more recipient addresses. The server response was: 550 5.7.1 Unable to relay for BRIAN.HUELSMAN@AEROFULFILLMENT.COM
+
+Event_InventoryReceived: 9
+Processing Event: sub 70544e74-bcfb-42b7-9021-a15865666986 INVENTORY ITEM RECEIVED BY SKU on 137 for CHERI CRABTREE on thread 0
+Event_InventoryReceived: 0
+Processing Event: sub 730c174d-23fa-4c67-bbbb-3dc0ee8ba004 Feed Confirmation on 208 for BECKY TELLOCK on thread 0
+Event_OrderApprovals: 0
+Processing Event: sub a2ddd8df-bbd1-42fc-acb2-087d6168e99d INVENTORY RECEIVED on 21 for JENNIFER WOLLSCHLAGER on thread 0
+Event_InventoryReceived: 0
+Processing Event: sub 9c8b3610-670b-4088-9914-313245fd7685 LINE ERROR on 131 for BECKY TELLOCK on thread 0
+Event_LineStatusChanged: 0
+Processing Event: sub 8be5ef0c-6972-43e1-aeb4-858f3671f1c8 INVENTORY INSERTED on 311 for CHERI CRABTREE on thread 0
+Event_InventoryChanged: 0
+Processing Event: sub 8d7d5ce4-01f9-4a17-bbc1-f63f8d5b2941 BATCH PENDING APPROVAL on 129 for CHERI CRABTREE on thread 0
+Event_OrderApprovals: 0
+Processing Event: sub 8af792ff-788d-455c-a4d5-4b9b1dcc5322 INVENTORY REORDER on 73 for BRIAN HUELSMAN on thread 0
+Event_InventoryReorder: 0
+Processing Event: sub 8f31df33-fde3-4a7c-bdd1-9e6afdf1993c KS Receipt By PO on 781 for BECKY TELLOCK on thread 0
+Event_KS_ReceiptsByPO: 0
+Processing Event: sub 902a0740-b0d9-4700-a07d-03d677a10163 CPG VENDOR PO APPROVAL on 73 for PGP PO AUTOMATIC REORDER on thread 0
+Event_InventoryReorder: 0
+Processing Event: sub b42b33ed-2d19-4659-b4df-393c432e83c9 INVENTORY RECEIVED on 597 for DONNA FARMER on thread 0
+Event_InventoryReceived: 0
+Processing Event: sub b58468c5-fff4-4fe0-bd64-415325c10300 INVENTORY ITEM REORDER BY SKU on 130 for CHERI CRABTREE on thread 0
+Event_InventoryReorder: 0
+Processing Event: sub ac928913-d32b-487b-ae17-10f922ee0334 BATCH PENDING APPROVAL on 130 for BECKY TELLOCK on thread 0
+Event_OrderApprovals: 0
+Processing Event: sub a905be70-0f1a-4d5c-b176-ad2576ca4456 INVENTORY ITEM REORDER BY SKU on 137 for CHERI CRABTREE on thread 0
+Event_InventoryReorder: 0
+Processing Event: sub b275b74d-7b84-4f28-9581-85374ea99e90 ORDER APPROVALS on 247 for KATE LEONHART on thread 0
+Event_OrderStatusChanged: 0
+Processing Event: sub b6ed4efd-38a1-495d-9e22-89d64cfc01e2 ORDER APPROVALS on 104 for DONNA FARMER on thread 0
+Event_OrderStatusChanged: 0
+Processing Event: sub b74e0f78-90e8-4159-981f-390a76ec2ea1 BATCH PENDING APPROVAL on 93 for BECKY TELLOCK on thread 0
+Event_OrderApprovals: 0
+Processing Event: sub b94c6bb9-6014-4922-9216-68626eabaa76 INVENTORY RECEIVED on 74 for DONNA FARMER on thread 0
+Event_InventoryReceived: 0
+Processing Event: sub fc48b955-5399-4614-ac9d-97c4969c6534 BATCH APPROVED on 73 for BRIAN HUELSMAN on thread 0
+Event_OrderApprovals: 0
+Processing Event: sub f7e8a5c4-ea56-4d40-a59a-8a0544978bfe INVENTORY RECEIVED on 411 for BECKY TELLOCK on thread 0
+Event_InventoryReceived: 0
+Processing Event: sub f9f7e52f-f66b-49bf-8273-d7608f8fceed BATCH PENDING APPROVAL on 74 for DONNA FARMER on thread 0
+Event_OrderApprovals: 0
+Processing Event: sub C2C8EF92-C498-41D7-91E4-1AAC2E81F6A1 CPG VENDOR PO on 73 for SYSTEM on thread 0
+Event_InventoryReorder: 0
+Processing Event: sub c9821517-ca19-4f6e-b855-ea1c69f6d6ef INVENTORY RECEIVED on 104 for DONNA FARMER on thread 0
+Event_InventoryReceived: 0
+Processing Event: sub ca8777fa-5699-40b9-8fe5-8058bd932128 INVENTORY REORDER on 597 for DONNA FARMER on thread 0
+Event_InventoryReorder: 0
+Processing Event: sub cc354456-e23d-4a14-aa46-193e4748c069 INVENTORY REORDER on 392 for BRIAN HUELSMAN on thread 0
+Event_InventoryReorder: 0
+Processing Event: sub cf2649e7-e7c3-4240-9301-92f34166d978 INVENTORY REORDER on 64 for DONNA FARMER on thread 0
+Event_InventoryReorder: 0
+Processing Event: sub d08c1bd9-0488-4e38-acf4-a024f3207daa INVENTORY ITEM REORDER BY SKU on 130 for BECKY TELLOCK on thread 0
+Event_InventoryReorder: 0
+Processing Event: sub d2733120-d0c5-4096-a63d-d50331e83c7e LINE CANCELED on 131 for BECKY TELLOCK on thread 0
+Event_LineStatusChanged: 0
+Processing Event: sub e8edbd59-315e-4e72-8a67-c61ba941f535 BATCH PENDING APPROVAL on 130 for CHERI CRABTREE on thread 0
+Event_OrderApprovals: 0
+Processing Event: sub e5d52c09-f759-4c54-9448-b328aa86bae6 ORDER ERROR on 597 for DONNA FARMER on thread 0
+Event_OrderStatusChanged: 0
+Processing Event: sub e5e68da0-2744-46ad-8d1d-9830e3c8a909 BATCH PENDING APPROVAL on 208 for BECKY TELLOCK on thread 0
+Event_OrderApprovals: 0
+Processing Event: sub f2cb5547-d143-49f8-a987-0a36c66df749 LINE APPROVAL on 74 for DONNA FARMER on thread 0
+Event_LineStatusChanged: 0
+Processing Event: sub d79db50c-1f2c-4b67-80a7-f243ca1afbca LINE ERROR on 130 for BECKY TELLOCK on thread 0
+Event_LineStatusChanged: 0
+Processing Event: sub d8a605b2-baf4-45b6-ba87-cce75908eecf INVENTORY REORDER on 411 for BECKY TELLOCK on thread 0
+Event_InventoryReorder: 0
+Processing Event: sub d92d5065-2a89-4f76-97c4-d8ce7875b107 INVENTORY INSERTED on 21 for JENNIFER WOLLSCHLAGER on thread 0
+Event_InventoryChanged: 0
+Processing Event: sub dfb9b4b2-2977-4fed-a739-a2d791759ee8 ITEM SKIPPED on 73 for HYDRO SYSTEMS DISTRIBUTION LIST on thread 0
+Event_ItemStatusChange: 0
+Processing Event: sub 7719bd66-5d06-4ede-8bae-a4fabf6a713d LINE APPROVAL By Item on 876 for PGAX@DOMTAR.COM on thread 0
+Event_LineStatusChanged: 0
+Processing Event: sub 1104baf3-dcb8-4f8d-b675-0452109db4d4 INVENTORY ITEM REORDER BY SKU on 392 for Anthony Klarkowski on thread 0
+Event_InventoryReorder: 0
+Processing Event: sub 65ec51e1-4174-4c14-af76-51ad48201aa5 Inventory Transaction on 311 for ERIN JONES on thread 0
+Event_Inventory_Transaction: 0
+Processing Event: sub 8268BCD3-21DF-4FAE-BD96-A8E17974E188 ORDER SHIPPED CONFIRM EMAIL on 841 for SYSTEM on thread 0
+Event_OrderTracking: 0
+Processing Event: sub 4c267430-880c-4e9d-9a1f-358b92b63233 Item Ordered on 719 for BECKY TELLOCK on thread 0
+Event_ItemStatusChange: 0
+Processing Event: sub C6EED34B-2B36-40D3-A4ED-387F66482AA5 LINE SHORT SHIPPED AUTO  on 311 for SYSTEM on thread 0
+Event_LineShortShipped: 0
+Processing Event: sub 2d9a9cdc-da40-489f-a085-15c46871ff91 INVENTORY RECEIVED on 855 for ALEXANDRA VERNI on thread 0
+Event_InventoryReceived: 0
+Processing Event: sub bad637ef-f606-47a1-81da-6b146755436d Putaways and Suspended Orders on 73 for WANDA WADDELL on thread 0
+Loading report: \\192.168.0.20\navigator\MASON\templates\Mason_Putaways_Suspended_Orders.rpt
+SMTP Error: From - ops@aerofulfillment.com
+SMTP Error: To - WANDA.WADDELL@AEROFULFILLMENT.COM
+SMTP Error: The server rejected one or more recipient addresses. The server response was: 550 5.7.1 Unable to relay for WANDA.WADDELL@AEROFULFILLMENT.COM
+
+SMTP Error: Exception has been thrown by the target of an invocation.
+SMTP Error: The server rejected one or more recipient addresses. The server response was: 550 5.7.1 Unable to relay for WANDA.WADDELL@AEROFULFILLMENT.COM
+
+Event_SuspendedOrders_Putaways: 3
+Processing Event: sub 2097211f-537c-4a63-8e9d-a8849e414642 Out of Stock on 719 for BECKY TELLOCK on thread 0
+Event_InventoryOutOfStock: 0
+Processing Event: sub 09dd47b7-64bf-4a21-bf02-eeb0b6f279b0 INVENTORY PUTAWAY on 539 for Shawn Brown on thread 0
+Event_InventoryPutAway: 0
+Processing Event: sub 5f3fe04c-1fe4-45db-9710-99816f3ad7a8 INVENTORY PUTAWAY on 539 for Eric Spencer on thread 0
+Event_InventoryPutAway: 0
+Processing Event: sub 01c53c14-5e25-49e4-9d89-7d2c8d76d966 24 HOUR ORDER APPROVAL  on 777 for Pam Brickley on thread 0
+Event_OrderTracking: 0
+Processing Event: sub 4428107d-7e66-4801-b3ea-d050334d75e5 ORDER APPROVALS on 245 for Joaquin Palomeque on thread 0
+Event_OrderStatusChanged: 0
+Processing Event: sub 33a574eb-3a41-449a-9d23-f51320cba21f ORDER ERROR on 759 for Paul Byus on thread 0
+Event_OrderStatusChanged: 0
+Processing Event: sub 504058ee-f284-4af6-898e-aa02cf6a8224 INVENTORY ITEM RECEIVED BY SKU on 759 for Paul Byus on thread 0
+Event_InventoryReceived: 0
+Processing Event: sub 00be0f45-c292-446d-acb5-0d2ab5296d0b LINE ERROR on 759 for Paul Byus on thread 0
+Event_LineStatusChanged: 0
+Processing Event: sub 044d9484-2341-4db8-bc34-c231e1fc64ba INVENTORY REORDER on 759 for Paul Byus on thread 0
+Event_InventoryReorder: 0
+Processing Event: sub da733ec2-0d65-41d2-87d0-db84212cbd75 Out of Stock on 759 for Paul Byus on thread 0
+Event_InventoryOutOfStock: 0
+Processing Event: sub 28d56560-9369-439c-9db2-c74c2d80bbed LINE APPROVAL on 887 for Donna Sall on thread 0
+Event_LineStatusChanged: 0
+Processing Event: sub 4f9fc708-99dd-44fe-ad64-46c0ef7cfe7e ORDER APPROVALS on 781 for Jason Rowland on thread 0
+Event_OrderStatusChanged: 0
+Processing Event: sub cdbffad3-455f-4713-b528-9ddfdebdb66c LINE APPROVAL on 245 for Lori Hazen on thread 0
+Event_LineStatusChanged: 0
+Processing Event: sub 9a873bef-4d03-48f7-9f4c-685436c4f208 ORDER APPROVALS on 781 for Cliff Wheeler on thread 0
+Event_OrderStatusChanged: 0
+Processing Event: sub 09c4e26a-a8cb-42e5-9af9-05f8c7660678 Item Shipped on 73 for LISA RENFROE on thread 0
+Event_ItemStatusChange: 0
+Processing Event: sub d4eb342e-cc44-4f86-acd9-77114d8a5819 Item Ordered on 73 for LISA RENFROE on thread 0
+Event_ItemStatusChange: 0
+Processing Event: sub 7b75d1ec-5863-4f0c-a2a9-99a723a59690 24 HOUR ORDER APPROVAL  on 777 for Carrie Kent on thread 0
+Event_OrderTracking: 0
+Processing Event: sub b9c2af76-29a0-4fb0-86b6-d45dedf4bc99 ORDER APPROVALS on 777 for Paula OSullivan on thread 0
+Loading report: \\192.168.0.20\navigator\MASON\templates\OrderApprovals.rpt
+SMTP Error: From - ops@aerofulfillment.com
+SMTP Error: To - posullivan@heartwareinc.com
+SMTP Error: The server rejected one or more recipient addresses. The server response was: 550 5.7.1 Unable to relay for posullivan@heartwareinc.com
+
+SMTP Error: Exception has been thrown by the target of an invocation.
+SMTP Error: The server rejected one or more recipient addresses. The server response was: 550 5.7.1 Unable to relay for posullivan@heartwareinc.com
+
+Event_OrderStatusChanged: 1
+Processing Event: sub a92d299e-0e79-4f35-a1f4-255559a89279 Items Nearing Stop Ship Date on 887 for SHERRY STANSBURY on thread 0
+Event_Inventory_StopShip: 0
+Processing Event: sub 8e98d07a-46b0-4742-9a87-931292cd5565 LINE SHORT SHIPPED on 887 for PEP SUPPORT on thread 0
+Event_LineShortShipped: 0
+Processing Event: sub 622a6e0f-31ac-4845-be5a-c998f92dd291 INVENTORY EXPIRED on 887 for SHERRY STANSBURY on thread 0
+Event_InventoryExpired: 0
+Processing Event: sub 5b9b2a08-3878-49ff-815c-87c5aaed0d5c INVENTORY EXPIRED on 887 for PEP SUPPORT on thread 0
+Event_InventoryExpired: 0
+Processing Event: sub deba427e-7b3a-4e8a-beed-720b6ed3a1bb LINE SHORT SHIPPED on 887 for SHERRY STANSBURY on thread 0
+Event_LineShortShipped: 0
+Processing Event: sub e5cb0c91-4cf1-47d8-b6e9-cc6752dc9c47 Items Nearing Stop Ship Date on 887 for PEP SUPPORT on thread 0
+Event_Inventory_StopShip: 0
+Processing Event: sub c7f68c24-548c-4042-926c-be38f314ab0c INVENTORY ITEM RECEIVED BY SKU on 759 for JACQUIE HANNAN on thread 0
+Event_InventoryReceived: 0
+Processing Event: sub 507d5b81-71dc-400e-ba9d-e6efe54074df Out of Stock on 759 for JACQUIE HANNAN on thread 0
+Event_InventoryOutOfStock: 0
+Processing Event: sub 207cd323-3845-41a0-8726-949dc5b44b29 INVENTORY REORDER on 759 for JACQUIE HANNAN on thread 0
+Event_InventoryReorder: 0
+Processing Event: sub 70a5f167-c8b0-4f38-97ad-2ca806e20fff ORDER ERROR on 759 for JACQUIE HANNAN on thread 0
+Event_OrderStatusChanged: 0
+Processing Event: sub 9e57578b-b12d-40b9-85d4-93a289456a7d LINE ERROR on 759 for JACQUIE HANNAN on thread 0
+Event_LineStatusChanged: 0
+Processing Event: sub 89a46046-f783-4f5b-93e0-785d3c636216 24 HOUR ORDER APPROVAL  on 777 for Sharon Michelson on thread 0
+Event_OrderTracking: 0
+Processing Event: sub 6e6ab0d0-960c-4a0f-864c-df53d17648a5 INVENTORY PUTAWAY on 777 for STEVE BUSAM on thread 0
+Event_InventoryPutAway: 0
+Processing Event: sub 718a5f3a-6833-4ec1-9e60-dc7858ae39d2 ORDER ERROR on 21 for MICHELLE PROCTOR                    on thread 0
+Event_OrderStatusChanged: 0
+Processing Event: sub 5f4baedb-5c91-45bd-a29e-0cac6e6f989e ORDER APPROVALS on 21 for Marketing Intern on thread 0
+Event_OrderStatusChanged: 0
+Processing Event: sub 8aa843c6-b333-418c-84fb-ea5110212aa4 INVENTORY REORDER on 21 for Marketing Intern on thread 0
+Event_InventoryReorder: 0
+Processing Event: sub 8b796009-ab94-4fdb-bf67-9b4bdc7a0711 ORDER APPROVALS on 21 for MICHELLE PROCTOR                    on thread 0
+Event_OrderStatusChanged: 0
+Processing Event: sub 930563b1-6dfe-4fc8-bb90-738199054a01 ORDER APPROVALS on 21 for DEB PEARSON                         on thread 0
+Event_OrderStatusChanged: 0
+Processing Event: sub b8585b79-a68f-48af-878b-f67815c4174b ORDER ERROR on 21 for TRISH ZIEGLER                       on thread 0
+Event_OrderStatusChanged: 0
+Processing Event: sub b1c41a65-61ec-4f08-8c7d-a7987fa6fe5d INVENTORY INSERTED on 21 for TONY TAVARES on thread 0
+Event_InventoryChanged: 0
+Processing Event: sub 236a32bc-f372-4d46-9dc6-1b5542493eca ORDER APPROVALS on 21 for TODD YOUNG on thread 0
+Event_OrderStatusChanged: 0
+Processing Event: sub 26b29601-d0e0-47d4-b933-73cbbe4ed9af ORDER APPROVALS on 21 for REGINA POLLARD                      on thread 0
+Event_OrderStatusChanged: 0
+Processing Event: sub 07540ba2-1a57-4086-8e1d-d8fd5c77bb74 INVENTORY REORDER on 21 for TONY TAVARES on thread 0
+Event_InventoryReorder: 0
+Processing Event: sub 58db71ab-007d-47c5-93b6-63f739e37d78 INVENTORY RECEIVED on 21 for Marketing Intern on thread 0
+Event_InventoryReceived: 0
+Processing Event: sub 55c0ec32-bec6-4a8b-8938-d035104b52d1 ORDER ERROR on 21 for DEB PEARSON                         on thread 0
+Event_OrderStatusChanged: 0
+Processing Event: sub 2a87e521-c72c-43a5-a7c5-5cdada53121e ORDER APPROVALS on 21 for TRISH ZIEGLER                       on thread 0
+Event_OrderStatusChanged: 0
+Processing Event: sub 34e463d9-5240-4825-b171-1a1e63f244e5 ORDER ERROR on 21 for TODD YOUNG on thread 0
+Event_OrderStatusChanged: 0
+Processing Event: sub 38ccc9b2-a9b7-40bb-b7b7-7669a0317c57 ORDER ERROR on 21 for Marketing Intern on thread 0
+Event_OrderStatusChanged: 0
+Processing Event: sub d4672eba-b80b-48ff-a779-0dd2ee0928ec ORDER ERROR on 21 for REGINA POLLARD                      on thread 0
+Event_OrderStatusChanged: 0
+Processing Event: sub e2c8cadb-a979-461c-907b-eb09dabe9d15 INVENTORY INSERTED on 21 for Marketing Intern on thread 0
+Event_InventoryChanged: 0
+Processing Event: sub d7957d6b-fa97-4b0c-9c12-31da514d3239 ORDER APPROVALS on 21 for TONY TAVARES on thread 0
+Event_OrderStatusChanged: 0
+Processing Event: sub e787d8a6-f106-42b0-a881-6f902bccf12a ORDER ERROR on 21 for TONY TAVARES on thread 0
+Event_OrderStatusChanged: 0
+Processing Event: sub f804d6c0-13f8-4047-a21d-04b349c8de06 INVENTORY RECEIVED on 21 for TONY TAVARES on thread 0
+Event_InventoryReceived: 0
+Processing Event: sub 29f5f41e-3ee3-4cc7-b5f7-6e151e45d8c6 PEP Order Approval on 887 for STEVE BUSAM on thread 0
+Event_OrderLineStatusChanged: 0
+Processing Event: sub c9e34574-4248-4af3-bac9-70be7a9bfbbb ORDER CONFIRMATION EMAIL SUB on 311 for ERIN JONES on thread 0
+Event_OrderTracking: 0
+Processing Event: sub f70ec46e-6b98-4588-b49c-c11c9fef4a57 INVENTORY RECEIVED on 855 for JESSICA LO on thread 0
+Event_InventoryReceived: 0
+Processing Event: sub 3d34c2e7-7543-4841-8207-0509bae0aad9 ORDER APPROVALS on 777 for Lori Seaver on thread 0
+Loading report: \\192.168.0.20\navigator\MASON\templates\OrderApprovals.rpt
+SMTP Error: From - ops@aerofulfillment.com
+SMTP Error: To - lseaver@heartware.com
+SMTP Error: The server rejected one or more recipient addresses. The server response was: 550 5.7.1 Unable to relay for lseaver@heartware.com
+
+SMTP Error: Exception has been thrown by the target of an invocation.
+SMTP Error: The server rejected one or more recipient addresses. The server response was: 550 5.7.1 Unable to relay for lseaver@heartware.com
+
+Event_OrderStatusChanged: 1
+Processing Event: sub 51f2384d-faff-4c3d-bb0d-fe4860aa73f6 INVENTORY REORDER on 777 for Lori Seaver on thread 0
+Event_InventoryReorder: 0
+Processing Event: sub 00d1989d-5fb0-4ced-a751-450102f76350 LINE SHORT SHIPPED on 777 for Lori Seaver on thread 0
+Event_LineShortShipped: 0
+Processing Event: sub 0a2209bf-7d47-4d10-ae0d-d75de22f698a 24 HOUR ORDER APPROVAL  on 777 for Lori Seaver on thread 0
+Event_OrderTracking: 0
+Processing Event: sub 070b61a8-04d6-4ea0-8771-93803c474eed INVENTORY PUTAWAY on 777 for Lori Seaver on thread 0
+Event_InventoryPutAway: 0
+Processing Event: sub 19c26125-e9fb-420e-837e-7abb7ff1b291 INVENTORY RECEIVED on 777 for Lori Seaver on thread 0
+Event_InventoryReceived: 0
+Processing Event: sub AE25F462-7B42-4444-AF74-B6130E87A4D9 ORDER CONFIRMATION EMAIL on 521 for SYSTEM on thread 0
+Event_OrderTracking: 0
+Processing Event: sub 8D204F27-45BD-4E6E-9C03-6D61B21E71BB ORDER SHIPPED CONFIRM EMAIL on 724 for SYSTEM on thread 0
+Event_OrderTracking: 0
+Processing Event: sub F21D4A97-625C-4C11-A06B-DEC7826F9EC4 ORDER CONFIRMATION EMAIL on 724 for SYSTEM on thread 0
+Loading report: \\192.168.0.20\navigator\MASON\templates\CPG_Order_Confirmation.rpt

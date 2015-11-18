@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[EventServer.sln]
+SCC_Aux_Path = "\\aeroshare03\vss\Navigator"
+SCC_Project_Name = "$/EventServer.root/EventServer", MXDAAAAA
+
+[EventServer.vbproj]
+SCC_Aux_Path = "\\aeroshare03\vss\Navigator"
+SCC_Project_Name = "$/EventServer.root/EventServer", MXDAAAAA
